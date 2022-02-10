@@ -1,6 +1,6 @@
-# json_search tool
+# json_tools
 
-a tool for analysis json content with some key
+A tool for analysis json content
 
 ## How to use
 
