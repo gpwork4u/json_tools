@@ -2,6 +2,13 @@
 
 A tool for analysis json content
 
+
+## install
+
+```shell
+pip install json-tools-python
+```
+
 ## How to use
 
 ```python
